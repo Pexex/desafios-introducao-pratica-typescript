@@ -1,1 +1,2 @@
-# desafios-introducao-pratica-typescript
+<h1>Resolução dos Desafios Propostos no Curso Introdução Prática ao Typescript</h1>
+<p>Resolução dos exercícios propostos pelo professor <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-649b3b161/">João Santos</a> que estão disponíveis no repositório <a href="https://github.com/lira1705/mentoria-typescript">Mentoria Typescript</a>.</p>
